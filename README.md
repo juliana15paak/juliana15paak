@@ -1,5 +1,4 @@
-<img width="400px" align="left" src="![headerju](https://github.com/juliana15paak/juliana15paak/assets/112185575/ddee8895-fb0c-4145-ba86-fe6f9584f843)" />
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana15paak&hide=html&layout=compact&theme=buefy" />
+<img width="400px" align="left" src="https://github.com/juliana15paak/juliana15paak/assets/112185575/ddee8895-fb0c-4145-ba86-fe6f9584f843" />
 
 <!--
 **juliana15paak/juliana15paak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
