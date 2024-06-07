@@ -12,11 +12,11 @@
 - 📚 I've ease, curiosity and desire to learn new things :)
 
 ### Studying
-- 🌎 English (B1 level currently)
-- 📑 For public tenders
-- ⚛️ Improving React Native
-- 🌟 Learning Laravel
-- 🖥️ Technology career paths
+- 🌎 English (B1 level currently).
+- 📑 For public tenders.
+- ⚛️ Improving React Native.
+- 🌟 Learning Laravel.
+- 🖥️ Technology career paths.
 
 ### Hobbies
 - 🌴 I love to travel and play volleyball.
