@@ -10,13 +10,13 @@
 - 🕙 I'm 17 years old and started programming when I was 15.
 - 📚 I've ease, curiosity and desire to learn new things :)
 
-##### Hobbies
+### Hobbies
 - 🌴 I love to travel and play volleyball.
 - 🎨 I make some sculptures and drawings on paper in my spare time.
 - 🖋️ Writting is also one of my hobbies. I've already written a few poems, a small book and some other texts.
 - 🎵 I love music, some of my favorite artists are: Bruno Mars, The Weeknd, Anderson .Paak, Leon Bridges, Frank Ocean e Lenny Kravitz.
 
-##### Studying
+### Studying
 - 🌎 English (B1 level currently)
 - 📑 For public tenders
 - ⚛️ Improving React Native
