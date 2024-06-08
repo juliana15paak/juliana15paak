@@ -15,7 +15,7 @@
 - 🌎 English (B1 level currently).
 - 📑 For public tenders.
 - ⚛️ Improving React Native.
-- 🌟 Learning Laravel.
+- 🌟 Learning Laravel and C++.
 - 🖥️ Technology career paths.
 
 ### Hobbies
