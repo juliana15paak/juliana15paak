@@ -20,7 +20,7 @@
 
 ### Hobbies
 - 🏖️ I love to travel and play volleyball.
-- 🎨 I make some sculptures and drawings on paper in my spare time.
+- 🎨 I make some sculptures and drawings in my spare time.
 - 🖋️ Writting is also one of my hobbies.
 - 🎵 I love music, some of my favorite artists are: Bruno Mars, The Weeknd, Anderson .Paak and Frank Ocean.
 
