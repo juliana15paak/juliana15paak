@@ -16,7 +16,6 @@
 - 📑 For public tenders.
 - ⚛️ Improving React Native.
 - 🌟 Learning Laravel and C++.
-- 🖥️ Technology career paths.
 
 ### Hobbies
 - 🏖️ I love to travel and play volleyball.
