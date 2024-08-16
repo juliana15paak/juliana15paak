@@ -13,9 +13,9 @@
 
 ### Studying
 - 🌎 English (B1 level currently).
-- 📑 For public tenders.
 - ⚛️ Improving React Native.
 - 🌟 Learning Laravel and C++.
+- 📑 For public tenders.
 
 ### Hobbies
 - 🏖️ I love to travel and play volleyball.
