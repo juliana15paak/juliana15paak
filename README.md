@@ -14,13 +14,11 @@
 ### Studying
 - 🌎 English (B1 level currently).
 - ⚛️ Improving React Native.
-- 🌟 Learning PHP, Laravel and C++ for Arduino.
 - 📑 For public tenders.
 
 ### Hobbies
 - 🏖️ I love to travel and play volleyball.
 - 🎨 I make some sculptures and drawings in my spare time.
-- 🖋️ Writting is also one of my hobbies.
 - 🎵 I love music, some of my favorite artists are: Bruno Mars, The Weeknd, Anderson .Paak and Frank Ocean.
 
 ## 💻 Tech Stack
