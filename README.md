@@ -14,6 +14,7 @@
 ### Studying
 - 🌎 English (B1 level currently).
 - ⚛️ Improving React Native.
+- 🌟 Learning PHP, Laravel and C++ for arduino.
 - 📑 For public tenders.
 
 ### Hobbies
