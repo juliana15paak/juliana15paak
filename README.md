@@ -6,7 +6,7 @@
 </div>
   
 ## ✨ About me
-- 👩🏻‍🎓 I'm a Systems Development Technician.
+- 👩🏻‍🎓 I'm a Systems Development Technician at Etec de Guaianases and I'm studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos.
 - 🗺️ São Paulo, Brazil.
 - 🕙 I'm 18 years old and started programming when I was 15.
 - 📚 I've ease, curiosity and desire to learn new things :)
