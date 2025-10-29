@@ -9,11 +9,11 @@
 - 💻 I'm studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos.
 - 👩🏻‍🎓 I'm a Systems Development Technician at Etec de Guaianases.
 - 🗺️ São Paulo, Brazil.
-- 🕙 I'm 18 years old and started programming when I was 15.
+- 🕙 I'm 19 years old and started programming when I was 15.
 - 📚 I've ease, curiosity and desire to learn new things :)
 
 ### Studying
-- 🌎 English (B1 level currently).
+- 🌎 English.
 - 🤖 For programming competitions (Python).
 
 ## 💻 Tech Stack
