@@ -4,20 +4,24 @@
 <a href="https://github.com/juliana15paak">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana15paak&layout=compact&langs_count=7&theme=jolly"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana15paak&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
-  
+
 ## ✨ About me
-- 💻 I'm studying Systems Analysis and Development at Fatec Ferraz de Vasconcelos.
-- 👩🏻‍🎓 I'm a Systems Development Technician at Etec de Guaianases.
+
+👋 Hi! I'm a Developer focusing on **Frontend** and **UI/UX**.
+
+- 🔭 Currently specializing in **HTML, CSS, JavaScript and React**.
+- 💻 Studying Systems Analysis and Development at **Fatec**.
+- 🎓 Technician in Systems Development at **Etec**.
+- 🕙 I'm 19 years old and my coding journey started when I was 15.
+- 💡 I'm a quick learner, passionate about turning designs into functional code.
 - 🗺️ São Paulo, Brazil.
-- 🕙 I'm 19 years old and started programming when I was 15.
-- 📚 I've ease, curiosity and desire to learn new things :)
 
 ### Studying
 - 🌎 English.
 - 🤖 For programming competitions (Python).
 
 ## 💻 Tech Stack
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 ### 💻 Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
