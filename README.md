@@ -7,7 +7,7 @@
 
 ## ✨ About me
 
-👋 Hi! I'm a Developer focusing on **Frontend** and **UI/UX**.
+Hi! I'm a Developer focusing on **Frontend** and **UI/UX**.
 
 - 🔭 Currently specializing in **HTML, CSS, JavaScript and React**.
 - 💻 Studying Systems Analysis and Development at **Fatec**.
@@ -16,12 +16,12 @@
 - 💡 I'm a quick learner, passionate about turning designs into functional code.
 - 🗺️ São Paulo, Brazil.
 
-### 🚀 Current Focus
+### Current Focus
 - 🎨 **UI Development** & Responsive Design.
 - 🧩 **Competitive Programming** (Python) to sharpen my logic skills.
 - 🌎 **English Proficiency**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Frontend & Design
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
