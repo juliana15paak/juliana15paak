@@ -12,7 +12,7 @@ Hi! I'm a Developer focusing on **Frontend** and **UI/UX**.
 - 🔭 Currently specializing in **HTML, CSS, JavaScript and React**.
 - 💻 Studying Systems Analysis and Development at **Fatec**.
 - 🎓 Technician in Systems Development at **Etec**.
-- 🕙 I'm 19 years old and my coding journey started when I was 15.
+- 🕙 I'm 20 years old and my coding journey started when I was 15.
 - 💡 I'm a quick learner, passionate about turning designs into functional code.
 - 🗺️ São Paulo, Brazil.
 
